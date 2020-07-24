@@ -4,4 +4,5 @@ Flat earth simulation using OpenGL
 
 ## Authors
 https://github.com/omercavdar/
+
 https://github.com/borabengu/
