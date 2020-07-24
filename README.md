@@ -12,6 +12,8 @@ Flat earth simulation using OpenGL
 ## Usage
 ```./hw3_flat $path_to_heightmap_file$ $path_to_map_file$```
 
+```./hw3_flat ./height_gray_mini.jpg ./normal_earth_mini.jpg ```
+
 ## Controls
 W : camera rotate up
 A : camera rotate left
