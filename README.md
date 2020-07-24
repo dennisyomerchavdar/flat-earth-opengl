@@ -4,7 +4,9 @@ Flat earth simulation using OpenGL
 
 ## Requirements
 ```sudo apt install libglew-dev```
+
 ```sudo apt install libglfw3-dev```
+
 ```sudo apt-get install libjpeg-dev```
 ## Authors
 https://github.com/omercavdar/
