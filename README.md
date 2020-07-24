@@ -15,14 +15,14 @@ Flat earth simulation using OpenGL
 ```./hw3_flat ./height_gray_mini.jpg ./normal_earth_mini.jpg ```
 
 ## Controls
-W : camera rotate up
-A : camera rotate left
-S : camera rotate down
-D : camera rotate right
-Y : increase speed
-H : decrease speed / increase reverse speed
-R : increase heightfactor of map
-F : decrease height factor of map
+W : camera rotate up  
+A : camera rotate left  
+S : camera rotate down  
+D : camera rotate right  
+Y : increase speed  
+H : decrease speed / increase reverse speed  
+R : increase heightfactor of map  
+F : decrease height factor of map  
 
 ## Authors
 https://github.com/omercavdar/
